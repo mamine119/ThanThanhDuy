@@ -1,14 +1,15 @@
 
 
+
 <h2>Hi there! I'm Duy</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying Software Engineering  at the FPT University (HCMC).\
-🌱 &nbsp;I'm on track for learning more about UI/UX Design.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Music.
+- 🎓 &nbsp;I'm currently studying Software Engineering  at the FPT University (HCMC).\
+- :clipboard: &nbsp;I'm on track for learning more about UI/UX Design.\
+- :headphones: &nbsp;In my free time, I pursue Graphic Design and Music.
 
-### 🛠 &nbsp;Tech Stack
+### 💻 &nbsp;Tech Stack
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
