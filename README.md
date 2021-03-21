@@ -28,6 +28,6 @@
 
 <p align="center">
 <a href="mailto:thanthanhduy0111@gmail.com"><img src="https://img.shields.io/badge/-thanthanhduy0111@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@thanthanhduy.gboo-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/ThanThanhDuy.GBoo"><img src="https://img.shields.io/badge/-@thanthanhduy.gboo-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.com/49GBoo"><img src="https://img.shields.io/badge/-@49GBoo-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
