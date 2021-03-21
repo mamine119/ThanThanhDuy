@@ -3,11 +3,12 @@
 
 <h2>Hi there! I'm Duy | Boo</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Something about Me
 
-- 🎓 &nbsp;I'm currently studying Software Engineering  at the FPT University (HCMC).\
-- :clipboard: &nbsp;I'm on track for learning more about UI/UX Design.\
+- 🎓 &nbsp;I'm currently studying Software Engineering  at the FPT University (HCMC).
+- :clipboard: &nbsp;I'm on track for learning more about UI/UX Design.
 - :headphones: &nbsp;In my free time, I pursue Graphic Design and Music.
+- ✉️ You can shoot me an email at [thanthanhduy0111@gmail.com](mailto:thanthanhduy0111@gmail.com)! I'll try to respond as soon as I can.
 
 ### 💻 &nbsp;Tech Stack
 
