@@ -1,15 +1,15 @@
 
 
 
-<h2>Hi there! I'm Duy | Boo</h2>
+<h2>Hi there! I'm Duy</h2>
 
-### 👨🏻‍💻 &nbsp;Something about Me
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🎓 &nbsp;I'm currently studying Software Engineering  at the FPT University (HCMC).
 - :clipboard: &nbsp;I'm on track for learning more about UI/UX Design.
 - :headphones: &nbsp;In my free time, I pursue Graphic Design and Music.
 - ✉️ You can shoot me an email at [thanthanhduy0111@gmail.com](mailto:thanthanhduy0111@gmail.com)! I'll try to respond as soon as I can.
-
+<img alt="Night Coding" src="https://vinfastbacbo.com/wp-content/uploads/2019/10/animated-gif-clipart-hot-icon-9.gif" width="300px" align="right"/>
 ### 💻 &nbsp;Tech Stack
 
 
