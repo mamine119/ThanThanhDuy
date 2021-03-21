@@ -1,6 +1,6 @@
 
 
-<h2>Hey there! I'm Duy</h2>
+<h2>Hi there! I'm Duy</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
