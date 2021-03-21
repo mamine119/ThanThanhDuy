@@ -9,7 +9,7 @@
 - :clipboard: &nbsp;I'm on track for learning more about UI/UX Design.
 - :headphones: &nbsp;In my free time, I pursue Graphic Design and Music.
 - ✉️ You can shoot me an email at [thanthanhduy0111@gmail.com](mailto:thanthanhduy0111@gmail.com)! I'll try to respond as soon as I can.
-<img alt="Night Coding" src="https://i.pinimg.com/originals/54/1f/1c/541f1c2e739aac67a89026fe0def22eb.gif" width="200px" align="right"/>
+
 ### 💻 &nbsp;Tech Stack
 
 
