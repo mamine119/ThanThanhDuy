@@ -6,7 +6,7 @@
 
 🎓 &nbsp;I'm currently studying Software Engineering  at the FPT University (HCMC).\
 🌱 &nbsp;I'm on track for learning more about UI/UX Design.\
-✍️ &nbsp;In my free time, I pursue Graphic Design.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Music.
 
 ### 🛠 &nbsp;Tech Stack
 
