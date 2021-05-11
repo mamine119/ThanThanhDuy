@@ -8,7 +8,7 @@
 - 🎓 &nbsp;I'm currently studying Software Engineering  at the FPT University (HCMC).
 - :clipboard: &nbsp;I'm on track for learning more about UI/UX Design.
 - :headphones: &nbsp;In my free time, I pursue Graphic Design and Music.
-- ✉️ You can shoot me an email at [thanthanhduy0111@gmail.com](mailto:thanthanhduy0111@gmail.com)! I'll try to respond as soon as I can.
+- ✉️ You can shoot me an email at [thanthanhduy.work@gmail.com](mailto:thanthanhduy.work@gmail.com)! I'll try to respond as soon as I can.
 
 ### 💻 &nbsp;Tech Stack
 
